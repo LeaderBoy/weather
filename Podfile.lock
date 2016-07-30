@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (3.4.1)
+  - BubbleTransition (1.0.3)
+  - Masonry (1.0.1)
+  - SwiftDate (3.0.8)
+  - SwiftGifOrigin (1.5.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - BubbleTransition (~> 1.0.0)
+  - Masonry
+  - SwiftDate
+  - SwiftGifOrigin (~> 1.5.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  BubbleTransition: a7ae6678721406d60f604cbbea1ace505563119d
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+  SwiftGifOrigin: 893ebcceabe215a00b607328b5322b4e228347e5
+
+PODFILE CHECKSUM: a607f0adf4ebb67b3feac0c4cd3463b747138d52
+
+COCOAPODS: 1.0.1
